@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Pooja Gangodawila</h1>
-🌱 I’m currently learning at Srilanka Institute of Information Technology
+<h1 align="center">Hi, I'm Pooja !</h1>
+🎓 Studying Information Technology specializing in Cyber Security at Srilanka Institute of Information Technology.
 
 
 <h3 align="left">Languages and Tools:</h3>
