@@ -147,8 +147,8 @@ I use TryHackMe to strengthen my practical cybersecurity knowledge through hands
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=PoojaIndiwari&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PoojaIndiwari&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=PoojaIndiwari&show_icons=true&theme=tokyonight&hide_border=true" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PoojaIndiwari&layout=compact&theme=tokyonight&hide_border=true" height="180" />
 </p>
 
 ---
@@ -156,7 +156,7 @@ I use TryHackMe to strengthen my practical cybersecurity knowledge through hands
 ## 🔥 Contribution Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=PoojaIndiwari&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com/?user=PoojaIndiwari&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
@@ -164,15 +164,7 @@ I use TryHackMe to strengthen my practical cybersecurity knowledge through hands
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=PoojaIndiwari&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" />
-</p>
-
----
-
-## 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/PoojaIndiwari/PoojaIndiwari/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
+  <img src="https://github-profile-trophy.vercel.app/?username=PoojaIndiwari&theme=tokyonight&no-frame=true&margin-w=10&column=6" />
 </p>
 
 ---
@@ -183,9 +175,11 @@ I use TryHackMe to strengthen my practical cybersecurity knowledge through hands
   <a href="https://www.linkedin.com/in/pooja-gangodawila-634015283/">
     <img src="https://img.shields.io/badge/LinkedIn-Pooja%20Gangodawila-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
+
   <a href="mailto:poojagangodawila@gmail.com">
     <img src="https://img.shields.io/badge/Email-poojagangodawila-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
+
   <a href="https://tryhackme.com/p/HackerXPJ">
     <img src="https://img.shields.io/badge/TryHackMe-HackerXPJ-red?style=for-the-badge&logo=tryhackme&logoColor=white" />
   </a>
